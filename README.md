@@ -2,6 +2,8 @@
 
 (NOTE: VLC MEDIA PLAYER IS REQUIRED!)
 
+Download VLC: https://plug-mirror.rcac.purdue.edu/vlc/vlc/3.0.11/win64/vlc-3.0.11-win64.exe
+
 List Of M3Us:
 
 Example: https://wedudt.lls.cdn.pbs.org/wedudt/c4ab80c1-ca8c-4a6e-a8b5-c5995919792b/primary.m3u8
