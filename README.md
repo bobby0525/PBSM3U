@@ -1,4 +1,4 @@
-# List Of PBS M3Us [v0.0.1 ALPHA]
+# List Of PBS M3Us
 
 (NOTE: VLC MEDIA PLAYER IS REQUIRED!)
 
